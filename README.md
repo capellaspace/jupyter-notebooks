@@ -10,6 +10,8 @@ In the folder `templates`, you can access a variety of Jupyter Notebooks that pr
 * Export footprints of the entire Capella archive
 * *Organization managers only:* Query orders within your organization 
 
+Additionally, the folder contains a credentials structure template to use for API authentication. **Login credentials are required to access the Capella API.**
+
 ## Example CPHD File Manipulation
 
 Examples of opening and manipulating [CPHD](https://nsgreg.nga.mil/doc/view?i=4638&month=3&day=8&year=2022) metadata and signal data using [NGA's SarPy](https://github.com/ngageoint/sarpy) library.
